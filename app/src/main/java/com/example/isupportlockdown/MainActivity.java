@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(sendintent);
                 }catch (ActivityNotFoundException ex){
 
-                }
+                }//this 
             }
         });
 
